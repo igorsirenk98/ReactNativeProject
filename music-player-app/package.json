@@ -8,7 +8,7 @@
     "postinstall": "react-native link"
   },
   "dependencies": {
-    "expo": "^33.0.0",
+    "expo": "^46.0.16",
     "expo-asset": "^7.0.0",
     "expo-file-system": "~5.0.1",
     "pod": "^0.9.0",
